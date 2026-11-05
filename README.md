@@ -29,15 +29,7 @@ The dashboard includes the following analyses:
 3. **Movies vs TV Shows:** Compares the overall distribution of movies and TV shows.
 4. **Country-wise Content Distribution:** Identifies countries with high numbers of Netflix titles.
 5. **Movies and TV Shows by Rating:** Analyzes content distribution across different audience rating categories.
-
-## Dashboard Filters
-
-The dashboard provides interactive filters for:
-
-- Payment
-- Customer Type
-- Gender
-
+   
 ## Dataset Description
 
 The `netflix_titles.csv` dataset contains 8,807 records and 12 columns, including:
